@@ -12,7 +12,7 @@ The tasks of the course project were to create a R script "analysis.R" which:
 
 The R script run_analysis.R provides enough comments which contain all relevant information.
 
-The file "features_info.txt" from the original data contains further descriptions and can be used as a *code book*.
+The file "code book.txt" is a modified version of "features_info.txt" from the original data and contains further descriptions.
 
 > Having the unzipped folder "UCI HAR Dataset" in the working directory is **required** to run the "run_analysis.R" script.
 
